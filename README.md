@@ -9,7 +9,7 @@ _Make sure you have a C++ Compiler installed_
 Download or clone the source code
 
 ```bash
-git clone https://github.com/KarnesTH/dungeon-crawler.git
+git clone https://github.com/KarnesTH/Dungeon-Crawler.git
 ```
 
 Change directory
